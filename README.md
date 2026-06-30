@@ -115,10 +115,10 @@ Pet service management backend with Firebase Auth, complex booking lifecycles, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-rajoriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-rajoriya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-rajoriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-rajoriya&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-rajoriya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-rajoriya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
