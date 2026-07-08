@@ -122,8 +122,6 @@ Pet service management backend with Firebase Auth, complex booking lifecycles, a
 
 </div>
 
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
